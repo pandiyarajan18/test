@@ -10,7 +10,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
 </head>
 <body>
-    <button id="myButton">Click me!</button>
+    <button id="myButton">Click me that !</button>
 
     <script>
         // Wait for the document to be fully loaded
